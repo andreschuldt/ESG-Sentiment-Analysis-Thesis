@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Nicht veröffentlichbare Rohdaten
+data/raw_reviews/
+data/reports/
+*_clean.csv
+*_scored.csv
+*_validation.csv
+
+# Zugangsdaten
+.env
+*.key
+secrets.json
+
+# Betriebssystem
+.DS_Store
+Thumbs.db

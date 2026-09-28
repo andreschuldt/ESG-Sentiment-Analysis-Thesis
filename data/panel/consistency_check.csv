@@ -1,0 +1,31 @@
+metric,pillar,sign_AMD,sign_NVIDIA,sign_HP,sign_DELL,r_AMD,r_NVIDIA,r_HP,r_DELL,n_companies,strict,loose,direction
+Renewable Energy Percentage,Environment,-,-,-,-,-0.143,-0.939,-0.783,-0.689,4,True,True,negativ
+Employee Turnover Rate,Social,+,+,-,?,0.974,0.768,-0.308,,3,False,False,positiv
+Women in Workforce,Social,+,-,-,-,0.208,-0.914,-0.418,-0.654,4,False,False,positiv
+Women in Management,Social,-,-,-,-,-0.477,-0.821,-0.025,-0.577,4,True,True,negativ
+Women in Senior Management,Social,-,-,+,?,-0.646,-0.943,0.372,,3,False,False,negativ
+Training Hours per Employee,Social,?,?,+,-,,,0.388,-0.504,2,False,False,negativ
+Total Recordable Injury Rate,Social,+,+,+,-,0.208,0.531,0.301,-0.0,4,False,False,positiv
+Board Independence,Governance,+,+,-,-,0.664,0.003,-0.027,-0.792,4,False,False,positiv
+Women on Board,Governance,+,-,-,+,0.346,-0.957,-0.155,0.294,4,False,False,positiv
+CEO Pay Ratio,Governance,-,-,+,-,-0.219,-0.875,0.07,-0.093,4,False,False,negativ
+Say-on-Pay Approval,Governance,+,+,-,?,0.813,0.873,-0.058,,3,False,False,positiv
+Effective Tax Rate,Governance,+,-,+,+,0.682,-0.745,0.173,0.365,4,False,False,positiv
+GHG Intensity (berechnet),Environment,-,+,+,+,-0.306,0.758,0.164,0.473,4,False,False,negativ
+Total Training Hours (pro Mitarbeiter),Social,?,?,?,-,,,,-0.507,1,False,False,negativ
+Scope 1 GHG Emissions (pro Mio. USD),Environment,-,+,-,+,-0.758,0.437,-0.653,0.433,4,False,False,negativ
+Scope 2 Market-Based (pro Mio. USD),Environment,-,+,+,+,-0.272,0.746,0.452,0.477,4,False,False,negativ
+Scope 2 Location-Based (pro Mio. USD),Environment,-,+,-,+,-0.445,0.689,-0.594,0.222,4,False,False,negativ
+Scope 3 Emissions (pro Mio. USD),Environment,+,+,+,+,0.433,0.299,0.332,0.231,4,True,True,positiv
+Total Energy Consumption (pro Mio. USD),Environment,-,+,-,+,-0.533,0.705,-0.661,0.3,4,False,False,negativ
+Renewable Energy Consumption (pro Mio. USD),Environment,-,+,+,-,-0.578,0.197,0.571,-0.729,4,False,False,negativ
+Total Waste Generated (pro Mitarbeiter),Environment,-,+,-,-,-0.74,0.462,-0.515,-0.007,4,False,False,negativ
+Total Waste Generated (pro Mio. USD),Environment,-,+,-,+,-0.885,0.544,-0.792,0.332,4,False,False,negativ
+Waste Recycled/Diverted (pro Mitarbeiter),Environment,-,+,-,-,-0.916,0.435,-0.652,-0.205,4,False,False,negativ
+Waste Recycled/Diverted (pro Mio. USD),Environment,-,+,-,+,-0.86,0.517,-0.786,0.187,4,False,False,negativ
+Water Withdrawal (pro Mitarbeiter),Environment,-,+,+,-,-0.802,0.305,0.756,-0.748,4,False,False,negativ
+Water Withdrawal (pro Mio. USD),Environment,-,+,-,+,-0.802,0.44,-0.287,0.348,4,False,False,negativ
+Hazardous Waste (pro Mitarbeiter),Environment,-,?,+,?,-0.448,,0.601,,2,False,False,negativ
+Hazardous Waste (pro Mio. USD),Environment,-,?,-,?,-0.474,,-0.216,,2,False,False,negativ
+Community Investment (pro Mitarbeiter),Social,-,-,-,-,-0.647,-0.386,-0.353,-0.226,4,True,True,negativ
+Community Investment (pro Mio. USD),Social,-,-,-,-,-0.65,-0.466,-0.54,-0.384,4,True,True,negativ

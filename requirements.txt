@@ -1,0 +1,38 @@
+# ESG-Sentiment-Analysis-Thesis
+# Getestet mit Python 3.12
+#
+# Die Sentiment-Inferenz (02) und die XAI-Analyse laufen in Google Colab
+# mit GPU-Runtime; torch und transformers sind dort vorinstalliert.
+# Die uebrigen Notebooks laufen lokal.
+
+# --- Datenverarbeitung ---
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1            # Lesen der ESG-Excel-Dateien
+
+# --- Statistik ---
+scipy>=1.11              # Pearson, Spearman, Kendall
+statsmodels>=0.14        # Fixed-Effects-Regression, FDR-Korrektur
+
+# --- NLP / Sentimentanalyse ---
+transformers>=4.40       # RoBERTa, nlptown, Siebert
+torch>=2.0               # Backend fuer die Transformer-Modelle
+vaderSentiment>=3.3      # lexikonbasierte Baseline
+langdetect>=1.0          # Sprachfilterung der Reviews
+
+# --- Erklaerbarkeit (XAI) ---
+transformers-interpret>=0.10
+
+# --- Visualisierung ---
+matplotlib>=3.8
+seaborn>=0.13            # Heatmaps
+wordcloud>=1.9
+
+# --- Hilfsmittel ---
+tqdm>=4.66               # Fortschrittsanzeige bei der Inferenz
+
+# --- Nur fuer die ESG-Extraktionspipelines (V10_Pipeline1/2, Colab) ---
+# anthropic>=0.30         # strukturierte Metrikextraktion
+# google-api-python-client # Google Search API zur Berichtsbeschaffung
+# edgartools              # Zugriff auf SEC-Filings
+# pypdf                   # Seitenfilterung der PDF-Berichte

@@ -1,0 +1,38 @@
+metric,pillar,status,begruendung
+Renewable Energy Percentage,Environment,bereits relativ / abgeleitet,
+Employee Turnover Rate,Social,bereits relativ / abgeleitet,
+Women in Workforce,Social,bereits relativ / abgeleitet,
+Women in Management,Social,bereits relativ / abgeleitet,
+Women in Senior Management,Social,bereits relativ / abgeleitet,
+Training Hours per Employee,Social,bereits relativ / abgeleitet,
+Total Recordable Injury Rate,Social,bereits relativ / abgeleitet,
+Board Independence,Governance,bereits relativ / abgeleitet,
+Women on Board,Governance,bereits relativ / abgeleitet,
+CEO Pay Ratio,Governance,bereits relativ / abgeleitet,
+Say-on-Pay Approval,Governance,bereits relativ / abgeleitet,
+Effective Tax Rate,Governance,bereits relativ / abgeleitet,
+GHG Intensity (berechnet),Environment,bereits relativ / abgeleitet,
+Total Training Hours (pro Mitarbeiter),Social,normiert,
+Scope 1 GHG Emissions (pro Mio. USD),Environment,normiert,
+Scope 2 Market-Based (pro Mio. USD),Environment,normiert,
+Scope 2 Location-Based (pro Mio. USD),Environment,normiert,
+Scope 3 Emissions (pro Mio. USD),Environment,normiert,
+Total Energy Consumption (pro Mio. USD),Environment,normiert,
+Renewable Energy Consumption (pro Mio. USD),Environment,normiert,
+Total Waste Generated (pro Mitarbeiter),Environment,normiert,
+Total Waste Generated (pro Mio. USD),Environment,normiert,
+Waste Recycled/Diverted (pro Mitarbeiter),Environment,normiert,
+Waste Recycled/Diverted (pro Mio. USD),Environment,normiert,
+Water Withdrawal (pro Mitarbeiter),Environment,normiert,
+Water Withdrawal (pro Mio. USD),Environment,normiert,
+Hazardous Waste (pro Mitarbeiter),Environment,normiert,
+Hazardous Waste (pro Mio. USD),Environment,normiert,
+Community Investment (pro Mitarbeiter),Social,normiert,
+Community Investment (pro Mio. USD),Social,normiert,
+Board Meeting Attendance,Governance,ausgeschlossen,"Nicht messbar aus Proxy Statements. SEC Reg. S-K Item 407(b)(1) verlangt nur die Offenlegung, WENN ein Direktor unter 75 % der Sitzungen besucht. Firmen berichten daher standardmässig 'at least 75 %' als regulatorische Untergrenze, nicht als Ist-Wert. Angabe zensiert und ueber alle Firmen/Jahre konstant (Varianz null)."
+GHG Intensity (berichtet),-,ausgeschlossen,"Definition firmenspezifisch. AMD berichtet 569-1116 tCO2e/Mio. USD, während (Scope 1 + Scope 2 market-based)/Umsatz nur 1,71-6,33 ergibt. HP und Dell berichten exakt den berechneten Wert, Nvidia weicht moderat ab. Ersetzt durch eigene Berechnung."
+Recordable Injuries,Social,ausgeschlossen,"Einheiteninkonsistenz. AMD berichtet absolute Zählungen (6-14), Nvidia, HP und Dell berichten unter diesem Namen dieselbe Rate wie unter 'Total Recordable Injury Rate'. Die Pro-Kopf-Normierung erzeugt einen Faktor 100 zwischen AMD und den uebrigen Firmen, der ausschliesslich auf der Einheitendifferenz beruht."
+Lost Time Injuries,Social,ausgeschlossen,"Einheiteninkonsistenz wie bei Recordable Injuries (AMD 'count', HP/Nvidia 'per 200,000 hours'); zusätzlich fehlen Dell-Daten vollständig (n = 11)."
+Lost Time Injury Frequency Rate,Social,ausgeschlossen,"Drei verschiedene Nenner ueber vier Firmen (pro 1.000.000 h / pro 200.000 h / pro 100 FTE). Nach Harmonisierung verbleibt kaum Within-Varianz: AMD in vier von fuenf Jahren exakt 0, HP ueber alle fuenf Jahre konstant 0,06. Die gepoolte Korrelation misst ueberwiegend Niveauunterschiede zwischen den Firmen."
+Water Recycled/Reused,Environment,ausgeschlossen,Datenabdeckung zu gering fuer eine Panelkorrelation (< 6 Unternehmen-Jahre).
+E-Waste Generated / E-Waste Recycling Rate,-,ausgeschlossen,"Datenabdeckung zu gering; zusätzlich Einheitenkonflikt bei der Recycling Rate (Dell '%', HP und Nvidia 'tonnes')."

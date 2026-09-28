@@ -1,0 +1,31 @@
+Metrik,Säule,n_obs,k_params,df_resid,sentiment_coef,t_stat,p_value,r_squared,r_squared_adj
+Renewable Energy Percentage,Environment,20,5,15,-10.848,-2.89,0.0112,0.659,0.568
+Board Independence,Governance,20,5,15,-4.649,-2.684,0.017,0.927,0.908
+Women in Workforce,Social,20,5,15,-1.701,-2.384,0.0308,0.988,0.984
+Community Investment (pro Mio. USD),Social,18,5,13,-20.32,-2.013,0.0653,0.394,0.207
+Women in Management,Social,19,5,14,-2.573,-1.854,0.0849,0.955,0.943
+Community Investment (pro Mitarbeiter),Social,18,5,13,-12.431,-1.344,0.2019,0.491,0.335
+Say-on-Pay Approval,Governance,20,5,15,5.64,1.257,0.2281,0.513,0.383
+Women in Senior Management,Social,14,4,10,-1.394,-1.278,0.2302,0.988,0.985
+Total Energy Consumption (pro Mio. USD),Environment,20,5,15,6.893,1.136,0.2736,0.11,-0.127
+Scope 2 Market-Based (pro Mio. USD),Environment,20,5,15,6.315,1.075,0.2992,0.166,-0.057
+GHG Intensity (berechnet),Environment,20,5,15,6.138,1.023,0.3224,0.13,-0.102
+Total Training Hours (pro Mitarbeiter),Social,12,5,7,-6.144,-0.942,0.3774,0.334,-0.046
+Employee Turnover Rate,Social,15,4,11,5.684,0.862,0.4074,0.554,0.432
+Scope 3 Emissions (pro Mio. USD),Environment,20,5,15,1.778,0.714,0.486,0.85,0.81
+Effective Tax Rate,Governance,20,5,15,3.664,0.707,0.4902,0.351,0.178
+Total Waste Generated (pro Mio. USD),Environment,19,5,14,2.123,0.678,0.5089,0.783,0.721
+Scope 2 Location-Based (pro Mio. USD),Environment,20,5,15,3.846,0.648,0.5266,0.149,-0.078
+Water Withdrawal (pro Mio. USD),Environment,20,5,15,1.745,0.648,0.5269,0.824,0.778
+Total Recordable Injury Rate,Social,20,5,15,2.388,0.646,0.5283,0.669,0.581
+Total Waste Generated (pro Mitarbeiter),Environment,19,5,14,1.67,0.592,0.5631,0.824,0.774
+CEO Pay Ratio,Governance,20,5,15,-1.201,-0.55,0.5903,0.885,0.854
+Water Withdrawal (pro Mitarbeiter),Environment,20,5,15,1.091,0.524,0.6078,0.895,0.867
+Waste Recycled/Diverted (pro Mio. USD),Environment,19,5,14,2.146,0.521,0.6108,0.624,0.517
+Women on Board,Governance,20,5,15,-1.629,-0.517,0.6125,0.76,0.696
+Hazardous Waste (pro Mitarbeiter),Environment,12,4,8,0.973,0.494,0.6347,0.977,0.969
+Waste Recycled/Diverted (pro Mitarbeiter),Environment,19,5,14,1.463,0.374,0.7139,0.662,0.565
+Hazardous Waste (pro Mio. USD),Environment,12,4,8,-0.353,-0.369,0.7218,0.995,0.993
+Renewable Energy Consumption (pro Mio. USD),Environment,20,5,15,-1.594,-0.259,0.7991,0.084,-0.16
+Scope 1 GHG Emissions (pro Mio. USD),Environment,20,5,15,-0.289,-0.147,0.8852,0.906,0.881
+Training Hours per Employee,Social,14,5,9,-0.049,-0.076,0.941,0.993,0.99

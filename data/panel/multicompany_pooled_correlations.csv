@@ -1,0 +1,31 @@
+metric,pillar,n_obs,n_companies,pearson_r,pearson_p,spearman_r,spearman_p,kendall_tau,kendall_p,methods_agree,p_fdr
+Women in Workforce,Social,20,4,-0.676,0.0011,-0.739,0.0002,-0.567,0.0006,YES,0.033
+Scope 1 GHG Emissions (pro Mio. USD),Environment,20,4,-0.639,0.0024,-0.726,0.0003,-0.547,0.0005,YES,0.036
+Women in Senior Management,Social,14,3,-0.58,0.0296,-0.865,0.0001,-0.732,0.0004,YES,0.216
+Women in Management,Social,19,4,-0.566,0.0116,-0.572,0.0105,-0.399,0.0173,YES,0.116
+Employee Turnover Rate,Social,15,3,-0.544,0.036,-0.559,0.0301,-0.364,0.0597,YES,0.216
+Renewable Energy Percentage,Environment,20,4,-0.408,0.0741,-0.442,0.0509,-0.325,0.0472,YES,0.3705
+Hazardous Waste (pro Mio. USD),Environment,12,3,-0.389,0.2113,-0.669,0.0174,-0.473,0.0331,YES,0.6635
+Women on Board,Governance,20,4,-0.389,0.0896,-0.479,0.0325,-0.389,0.0199,YES,0.384
+Hazardous Waste (pro Mitarbeiter),Environment,12,3,-0.365,0.2433,-0.501,0.0972,-0.351,0.1139,YES,0.6635
+Scope 3 Emissions (pro Mio. USD),Environment,20,4,-0.358,0.1211,-0.517,0.0195,-0.358,0.0283,YES,0.4541
+CEO Pay Ratio,Governance,20,4,-0.285,0.2237,-0.26,0.2678,-0.227,0.1628,YES,0.6635
+Water Withdrawal (pro Mio. USD),Environment,20,4,-0.252,0.2833,-0.362,0.1163,-0.263,0.1126,YES,0.667
+Community Investment (pro Mitarbeiter),Social,18,4,0.247,0.3221,0.03,0.9062,0.007,1.0,YES,0.667
+Scope 2 Market-Based (pro Mio. USD),Environment,20,4,0.241,0.3061,0.186,0.4312,0.158,0.3514,YES,0.667
+Board Independence,Governance,20,4,0.228,0.3335,0.244,0.3006,0.184,0.2755,YES,0.667
+Renewable Energy Consumption (pro Mio. USD),Environment,20,4,-0.214,0.3657,-0.466,0.0383,-0.316,0.0548,YES,0.6683
+Total Recordable Injury Rate,Social,20,4,-0.203,0.3905,-0.238,0.3133,-0.179,0.2807,YES,0.6683
+Say-on-Pay Approval,Governance,20,4,0.199,0.401,0.181,0.4449,0.149,0.3743,YES,0.6683
+Waste Recycled/Diverted (pro Mio. USD),Environment,19,4,-0.159,0.5147,-0.361,0.1284,-0.287,0.0933,YES,0.8127
+Total Waste Generated (pro Mio. USD),Environment,19,4,-0.148,0.5456,-0.328,0.1703,-0.24,0.1637,YES,0.8184
+Total Energy Consumption (pro Mio. USD),Environment,20,4,0.121,0.6108,-0.053,0.8256,-0.074,0.6771,NO,0.8726
+Community Investment (pro Mio. USD),Social,18,4,-0.099,0.6955,-0.238,0.3408,-0.163,0.3686,YES,0.8906
+GHG Intensity (berechnet),Environment,20,4,0.094,0.6925,0.099,0.6772,0.074,0.6771,YES,0.8906
+Effective Tax Rate,Governance,20,4,0.088,0.7125,-0.083,0.7289,-0.053,0.7732,NO,0.8906
+Training Hours per Employee,Social,14,4,-0.06,0.8388,-0.029,0.9226,-0.011,0.9562,YES,0.9511
+Water Withdrawal (pro Mitarbeiter),Environment,20,4,-0.056,0.8144,-0.081,0.7336,-0.021,0.9235,YES,0.9511
+Total Waste Generated (pro Mitarbeiter),Environment,19,4,-0.036,0.884,-0.1,0.6838,-0.053,0.7825,YES,0.9511
+Total Training Hours (pro Mitarbeiter),Social,12,4,-0.033,0.9194,0.168,0.6021,0.152,0.5452,NO,0.9511
+Waste Recycled/Diverted (pro Mitarbeiter),Environment,19,4,-0.027,0.9133,-0.17,0.4861,-0.111,0.534,YES,0.9511
+Scope 2 Location-Based (pro Mio. USD),Environment,20,4,-0.014,0.9519,0.011,0.9649,-0.011,0.9745,NO,0.9519

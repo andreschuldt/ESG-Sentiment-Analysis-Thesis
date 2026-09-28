@@ -1,0 +1,31 @@
+metric,pillar,n,r_pooled,p_pooled,r_within,p_within,r_fisher,k_companies,simpson
+Renewable Energy Percentage,Environment,20,-0.408,0.0741,-0.598,0.0054,-0.737,4,False
+Board Independence,Governance,20,0.228,0.3335,-0.57,0.0087,-0.075,4,True
+Women in Workforce,Social,20,-0.676,0.0011,-0.524,0.0177,-0.567,4,False
+Community Investment (pro Mio. USD),Social,18,-0.099,0.6955,-0.487,0.0402,-0.517,4,False
+Say-on-Pay Approval,Governance,20,0.199,0.401,0.473,0.0751,0.668,3,False
+Women in Management,Social,19,-0.566,0.0116,-0.444,0.0568,-0.53,4,False
+Women in Senior Management,Social,14,-0.58,0.0296,-0.375,0.1869,-0.613,3,False
+Community Investment (pro Mitarbeiter),Social,18,0.247,0.3221,-0.349,0.1554,-0.417,4,True
+Total Training Hours (pro Mitarbeiter),Social,12,-0.033,0.9194,-0.335,0.2864,-0.507,1,False
+Total Energy Consumption (pro Mio. USD),Environment,20,0.121,0.6108,0.282,0.2291,-0.05,4,False
+Scope 2 Market-Based (pro Mio. USD),Environment,20,0.241,0.3061,0.268,0.2542,0.399,4,False
+GHG Intensity (berechnet),Environment,20,0.094,0.6925,0.255,0.2771,0.326,4,False
+Employee Turnover Rate,Social,15,-0.544,0.036,0.251,0.3661,0.743,3,True
+Scope 3 Emissions (pro Mio. USD),Environment,20,-0.358,0.1211,0.181,0.4441,0.326,4,True
+Effective Tax Rate,Governance,20,0.088,0.7125,0.18,0.4484,0.107,4,False
+Total Waste Generated (pro Mio. USD),Environment,19,-0.148,0.5456,0.178,0.4653,-0.363,4,False
+Hazardous Waste (pro Mitarbeiter),Environment,12,-0.365,0.2433,0.172,0.593,0.106,2,True
+Scope 2 Location-Based (pro Mio. USD),Environment,20,-0.014,0.9519,0.165,0.4867,-0.022,4,False
+Water Withdrawal (pro Mio. USD),Environment,20,-0.252,0.2833,0.165,0.487,-0.14,4,True
+Total Recordable Injury Rate,Social,20,-0.203,0.3905,0.164,0.4885,0.271,4,True
+Total Waste Generated (pro Mitarbeiter),Environment,19,-0.036,0.884,0.156,0.5227,-0.252,4,False
+CEO Pay Ratio,Governance,20,-0.285,0.2237,-0.141,0.5542,-0.38,4,False
+Waste Recycled/Diverted (pro Mio. USD),Environment,19,-0.159,0.5147,0.138,0.5737,-0.378,4,False
+Water Withdrawal (pro Mitarbeiter),Environment,20,-0.056,0.8144,0.134,0.5729,-0.191,4,False
+Women on Board,Governance,20,-0.389,0.0896,-0.132,0.5779,-0.335,4,False
+Hazardous Waste (pro Mio. USD),Environment,12,-0.389,0.2113,-0.129,0.6887,-0.352,2,False
+Waste Recycled/Diverted (pro Mitarbeiter),Environment,19,-0.027,0.9133,0.1,0.6852,-0.479,4,False
+Renewable Energy Consumption (pro Mio. USD),Environment,20,-0.214,0.3657,-0.067,0.7798,-0.182,4,False
+Scope 1 GHG Emissions (pro Mio. USD),Environment,20,-0.639,0.0024,-0.038,0.8739,-0.207,4,False
+Training Hours per Employee,Social,14,-0.06,0.8388,-0.025,0.9314,-0.073,2,False
